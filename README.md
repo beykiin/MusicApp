@@ -1,3 +1,10 @@
+<h1><i>MUSIC APP REACT-NATIVE</i></h1>
+<p>In this project, I displayed music data from a JSON file on the screen using a FlatList and ensured that the list updates according to the song searched in the search bar.</p>
+<div style="display-flex">
+   <img src="SS1.png">
+   <img src="SS2.png">
+</div>
+<img src="SS3.png">
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
 # Getting Started
